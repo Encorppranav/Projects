@@ -1,0 +1,12 @@
+h2 {
+  margin-left: 2.5rem;
+  
+}
+
+.details {
+
+  height: 70%;
+  padding: 10px 40px;
+  display: flex;
+  flex-direction: column;
+}
