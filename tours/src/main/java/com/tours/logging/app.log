@@ -1,0 +1,30 @@
+2026-05-28 16:29:14 -  INFO - c.t.ToursApplication - Starting ToursApplication using Java 24.0.1 with PID 1188 (D:\Monty\Full stack projects\tours\target\classes started by Lenovo in D:\Monty\Full stack projects\tours)
+2026-05-28 16:29:14 - DEBUG - c.t.ToursApplication - Running with Spring Boot v3.5.14, Spring v6.2.18
+2026-05-28 16:29:14 -  INFO - c.t.ToursApplication - The following 1 profile is active: "dev"
+2026-05-28 16:29:17 -  WARN - o.h.o.deprecation - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-05-28 16:29:19 - DEBUG - c.t.c.JwtFilter$$SpringCGLIB$$0 - Filter 'jwtFilter' configured for use
+2026-05-28 16:29:19 -  INFO - c.t.s.CloudinaryImageService - Object is created through constructor injection
+2026-05-28 16:29:19 -  INFO - c.t.c.SecurityConfig - Configuring Authentication Manager
+2026-05-28 16:29:19 -  INFO - c.t.c.SecurityConfig - Configuring DaoAuthenticationProvider bean.
+2026-05-28 16:29:19 -  WARN - o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with an AuthenticationProvider bean. UserDetailsService beans will not be used by Spring Security for automatically configuring username/password login. Consider removing the AuthenticationProvider bean. Alternatively, consider using the UserDetailsService in a manually instantiated DaoAuthenticationProvider. If the current configuration is intentional, to turn off this warning, increase the logging level of 'org.springframework.security.config.annotation.authentication.configuration.InitializeUserDetailsBeanManagerConfigurer' to ERROR
+2026-05-28 16:29:19 -  WARN - o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-05-28 16:29:20 -  INFO - c.t.c.SecurityConfig - Configuring HTTP Security filters.
+2026-05-28 16:29:20 -  INFO - c.t.c.SecurityConfig - Configuring CORS with allowed origins and methods.
+2026-05-28 16:29:20 -  INFO - c.t.c.SecurityConfig - Configuring CORS Configuration.
+2026-05-28 16:29:20 -  INFO - c.t.c.SecurityConfig - CORS Configuration successfully set.
+2026-05-28 16:29:20 -  INFO - c.t.ToursApplication - Started ToursApplication in 6.925 seconds (process running for 16.871)
+2026-05-28 16:31:05 -  INFO - c.t.ToursApplication - Starting ToursApplication using Java 24.0.1 with PID 21948 (D:\Monty\Full stack projects\tours\target\classes started by Lenovo in D:\Monty\Full stack projects\tours)
+2026-05-28 16:31:05 - DEBUG - c.t.ToursApplication - Running with Spring Boot v3.5.14, Spring v6.2.18
+2026-05-28 16:31:05 -  INFO - c.t.ToursApplication - The following 1 profile is active: "dev"
+2026-05-28 16:31:08 -  WARN - o.h.o.deprecation - HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2026-05-28 16:31:09 - DEBUG - c.t.c.JwtFilter$$SpringCGLIB$$0 - Filter 'jwtFilter' configured for use
+2026-05-28 16:31:10 -  INFO - c.t.s.CloudinaryImageService - Object is created through constructor injection
+2026-05-28 16:31:10 -  INFO - c.t.c.SecurityConfig - Configuring Authentication Manager
+2026-05-28 16:31:10 -  INFO - c.t.c.SecurityConfig - Configuring DaoAuthenticationProvider bean.
+2026-05-28 16:31:10 -  WARN - o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with an AuthenticationProvider bean. UserDetailsService beans will not be used by Spring Security for automatically configuring username/password login. Consider removing the AuthenticationProvider bean. Alternatively, consider using the UserDetailsService in a manually instantiated DaoAuthenticationProvider. If the current configuration is intentional, to turn off this warning, increase the logging level of 'org.springframework.security.config.annotation.authentication.configuration.InitializeUserDetailsBeanManagerConfigurer' to ERROR
+2026-05-28 16:31:10 -  WARN - o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2026-05-28 16:31:10 -  INFO - c.t.c.SecurityConfig - Configuring HTTP Security filters.
+2026-05-28 16:31:10 -  INFO - c.t.c.SecurityConfig - Configuring CORS with allowed origins and methods.
+2026-05-28 16:31:10 -  INFO - c.t.c.SecurityConfig - Configuring CORS Configuration.
+2026-05-28 16:31:10 -  INFO - c.t.c.SecurityConfig - CORS Configuration successfully set.
+2026-05-28 16:31:10 -  INFO - c.t.ToursApplication - Started ToursApplication in 5.859 seconds (process running for 6.366)
